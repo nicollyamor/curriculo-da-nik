@@ -128,19 +128,19 @@ body.dark-mode section {
 
 body.dark-mode h2 {
   color: #ffffff;                  /* Texto branco */
-  border-color: #90caf9;           /* Borda azul claro */
+  border-color: #f180c6;           /* Borda azul claro */
 }
 
 body.dark-mode button {
-  background-color: #90caf9;       /* Azul claro */
+  background-color: #f180c6;       /* Azul claro */
   color: #000;                     /* Texto preto */
 }
 
 body.dark-mode button:hover {
-  background-color: #64b5f6;       /* Azul claro mais escuro */
+  background-color: #f180c6;       /* Azul claro mais escuro */
 }
 
 body.dark-mode .profile-img {
-  border-color: #64b5f6;           /* Borda azul no modo escuro */
+  border-color: #f180c6;           /* Borda azul no modo escuro */
   box-shadow: 0 2px 4px rgba(0,0,0,0.4); /* Sombra mais visível */
 }
